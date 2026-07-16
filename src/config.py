@@ -71,7 +71,7 @@ DB_NAME = "stock_market"
 
 DB_USER = "postgres"
 
-DB_PASSWORD = "password"
+DB_PASSWORD = "yourpassword"
 
 DB_HOST = "localhost"
 
