@@ -207,12 +207,6 @@ Stock-Market-Analytics-Pipeline/
 │       ├── dashboard2.png
 │       └── dashboard3.png
 │
-├── database/
-│
-├── notebooks/
-│
-├── reports/
-│
 ├── sql/
 │   ├── basic_queries.sql
 │   ├── business_queries.sql
@@ -240,7 +234,7 @@ Stock-Market-Analytics-Pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Stock-Market-Analytics-Pipeline.git
+git clone https://github.com/ASHVINIKODE/Stock-Market-Analytics-Pipeline.git
 ```
 
 ### 2. Navigate to the project
