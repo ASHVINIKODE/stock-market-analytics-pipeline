@@ -164,45 +164,19 @@ The project contains professional SQL scripts organized into separate modules.
 
 ## Dashboard 1 – Executive Overview
 
-
-
-### Screenshot
-
-```
-dashboard/dashboard_screenshots/dashboard1.png
-```
-
-
+![Dashboard 1](dashboard/dashboard_screenshots/dashboard1.png)
 
 ---
 
 ## Dashboard 2 – Performance & Risk Analysis
 
-
-
-### Screenshot
-
-```
-dashboard/dashboard_screenshots/dashboard2.png
-```
-
+![Dashboard 2](dashboard/dashboard_screenshots/dashboard2.png)
 
 ---
 
 ## Dashboard 3 – Market Trends & Trading Insights
 
-
-
-### Screenshot
-
-```
-dashboard/dashboard_screenshots/dashboard3.png
-```
-
-
-
----
-
+![Dashboard 3](dashboard/dashboard_screenshots/dashboard3.png)
 # Business Insights
 
 Some key insights generated from the analysis include:
